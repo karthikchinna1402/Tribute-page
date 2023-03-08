@@ -1,0 +1,36 @@
+body{
+    background-image: url("b1.jpg");
+    margin: 1px 20%;
+    font-family:sans-serif;
+    font-style:normal;
+}
+
+#title{
+    text-align: center;
+    color: bisque;
+    text-shadow: 1px 1px 3px rgb(17, 17, 16);
+    font-size: 30px;
+}
+
+img{
+    display: block;
+    border-radius: 50%;
+    filter: grayscale(50%);
+    margin: auto;
+    border-color: coral;
+}
+
+
+
+div#tribute-info{
+    background-color:antiquewhite;
+    box-shadow: 20px 20px 15px rgb(133, 35, 35);
+    padding: 6px 12px;
+    margin-top:22px;
+ 
+}
+h1.title{
+    color:rgb(201, 57, 17);
+    text-align:center;
+    text-shadow: 1px 1px 3px rgb(68, 58, 58);
+}
